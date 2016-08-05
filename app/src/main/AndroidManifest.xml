@@ -25,6 +25,11 @@
         <activity android:name=".ShowMessageActivity" />
         <activity android:name=".SensorDataActivity" />
         <activity
+            android:name=".Camera2Activity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_camera"
+            android:theme="@style/FullscreenTheme" />
+        <activity
             android:name=".CameraActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_camera"
