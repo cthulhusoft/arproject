@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AR Project</string>
+    <string name="msg_input">Write here...</string>
+    <string name="show_msg">Send message</string>
+    <string name="sensor1">Accelerometer: </string>
+    <string name="sensor2">Magnetometer: </string>
+
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
