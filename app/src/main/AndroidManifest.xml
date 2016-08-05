@@ -27,13 +27,14 @@
         <activity
             android:name=".Camera2Activity"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_camera"
+            android:label="@string/title_activity_camera2"
             android:theme="@style/FullscreenTheme" />
         <activity
             android:name=".CameraActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_camera"
-            android:theme="@style/FullscreenTheme"></activity>
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
     </application>
 
 </manifest>

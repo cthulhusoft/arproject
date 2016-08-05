@@ -6,6 +6,7 @@
     <string name="sensor2">Magnetometer: </string>
 
     <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_camera2">Camera2Activity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
